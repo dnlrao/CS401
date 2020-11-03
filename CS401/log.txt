@@ -1,0 +1,34 @@
+1603941258 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941258 - DEBUG --> getting a connection 
+1603941446 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941446 - DEBUG --> getting a connection 
+1603941613 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941613 - DEBUG --> getting a connection 
+1603941669 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941669 - DEBUG --> getting a connection 
+1603941723 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941723 - DEBUG --> getting a connection 
+1603941884 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941884 - DEBUG --> getting a connection 
+1603941901 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941901 - DEBUG --> getting a connection 
+1603941931 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603941931 - DEBUG --> getting a connection 
+1603942186 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603942186 - DEBUG --> getting a connection 
+1603942235 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603942235 - DEBUG --> getting a connection 
+1603942246 - INFO  --> Checking if user email and password match to the one present in the database. 
+1603942246 - DEBUG --> getting a connection 
+1604004888 - INFO  --> Checking if user Exist 
+1604004888 - DEBUG --> getting a connection 
+1604004888 - INFO  --> Creating user Account! 
+1604004888 - DEBUG --> getting a connection 
+1604004923 - INFO  --> Checking if user email and password match to the one present in the database. 
+1604004923 - DEBUG --> getting a connection 
+1604004978 - INFO  --> Checking if user email and password match to the one present in the database. 
+1604004978 - DEBUG --> getting a connection 
+1604370834 - INFO  --> Checking if user Exist 
+1604370834 - DEBUG --> getting a connection 
+1604370834 - INFO  --> Creating user Account! 
+1604370834 - DEBUG --> getting a connection 

@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+body {
+  overflow: hidden;
+  background-color:white;
+  margin: 0;
+  font-family: "montserrat", sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: dimgrey;
+}
+
+ul {
+  list-style-type: none;
+}
+
+header img {
+  width: 20%;
+  min-width: 100px;
+}
+
+
+.mainFrame {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  padding-top: 100px;
+  text-align: center;
+  background-color: rgb(225, 225, 225);
+  width: 40%;
+  padding-bottom: 100%;
+  animation: mymove 1s;
+  animation-fill-mode: forwards;
+  margin-left: 35%;
+  box-shadow: 0 0 20px black;
+}
+
+@keyframes mymove {
+  from {
+    left: 0%;
+  }
+  to {
+    left: 26%;
+  }
+}
+
+.logo {
+  margin-top: 15%;
+  width: 25%;
+  float: left;
+  position: relative;
+  animation-name:logoMove;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
+}
+
+.logo:hover {
+  box-shadow: 0 0 20px black;
+}
+@keyframes logoMove {
+    0% {
+        background-color: white;
+        left: 0%;
+        top: 0px;
+      }
+      100% {
+        background-color: white;
+        left: 20%;
+        top: 0px;
+      }
+}
+
+.mainFrame input {
+  box-shadow: 0 0 10px grey;
+  width: 50%;
+  height: 50px;
+  min-width: 150px;
+  border-radius: 3em;
+  border: 1px;
+  padding-left: 3%;
+  margin-left: -25px;
+}
+
+.formDesign li {
+  padding-top: 1.5em;
+}
+
+
+input[type="text"] {
+  width: 200px;
+  -webkit-transition: width 0.35s ease-in-out;
+  transition: width 0.35s ease-in-out;
+}
+input[type="text"]:hover {
+  width: 250px;
+}
+
+
+input[type="password"] {
+  width: 200px;
+  -webkit-transition: width 0.35s ease-in-out;
+  transition: width 0.35s ease-in-out;
+}
+input[type="password"]:hover {
+  width: 250px;
+}
+
+input[type="submit"] {
+text-align: center;
+background-color: black;
+color: white;
+cursor: pointer;
+text-align: center;
+width: 150px;
+}
+
+input[type="submit"]:hover {
+  box-shadow: 0 0 20px black;
+}
+
+.message {
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  color: red;
+  position: relative;
+  animation-name: box;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+@keyframes box {
+  0% {
+    opacity: 0.1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.errorMessage {
+  position: relative;
+  animation-name: box;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
