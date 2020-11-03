@@ -1,2 +1,2 @@
 # CS401
-Final Project
+Final Project for CS401 (Intro to Web Development)
