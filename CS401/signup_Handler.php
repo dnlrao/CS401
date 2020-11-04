@@ -44,6 +44,12 @@ $_SESSION['credentials'] = array();
                 }
                 
             }
+            else {
+                $_SESSION['credentials'][] = $postUserEmail;
+                $_SESSION['signupErr'][] = "password does not match";
+                header("location: signUp.php");
+                exit();
+            }
             
         }
 
