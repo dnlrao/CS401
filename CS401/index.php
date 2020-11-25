@@ -70,7 +70,7 @@ $_SESSION['loginErr'] = array();
                     <li><a href="men.php">
                             <h3>Men</h3>
                         </a></li>
-                    <li><a href="index.php">
+                    <li class = "home"><a href="index.php">
                             <h3>Home</h3>
                         </a></li>
                 </ul>

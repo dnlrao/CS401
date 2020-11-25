@@ -38,6 +38,10 @@ form {
   box-shadow: 0 0 20px black;
 }
 
+label{
+  cursor: pointer;
+}
+
 input[type="text"] {
   width: 200px;
   -webkit-transition: width 0.35s ease-in-out;
@@ -158,3 +162,4 @@ a:hover {
     opacity: 1;
   }
 }
+

@@ -32,3 +32,201 @@
 1604370834 - DEBUG --> getting a connection 
 1604370834 - INFO  --> Creating user Account! 
 1604370834 - DEBUG --> getting a connection 
+1604375148 - INFO  --> Checking if user email and password match to the one present in the database. 
+1604375148 - DEBUG --> getting a connection 
+1604375177 - INFO  --> Checking if user Exist 
+1604375177 - DEBUG --> getting a connection 
+1605161189 - INFO  --> Checking if user Exist 
+1605161189 - DEBUG --> getting a connection 
+1605161189 - INFO  --> Creating user Account! 
+1605161189 - DEBUG --> getting a connection 
+1605161220 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161220 - DEBUG --> getting a connection 
+1605161379 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161379 - DEBUG --> getting a connection 
+1605161471 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161471 - DEBUG --> getting a connection 
+1605161520 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161520 - DEBUG --> getting a connection 
+1605161654 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161654 - DEBUG --> getting a connection 
+1605161978 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605161978 - DEBUG --> getting a connection 
+1605163565 - INFO  --> Checking if user Exist 
+1605163565 - DEBUG --> getting a connection 
+1605163620 - INFO  --> Checking if user Exist 
+1605163620 - DEBUG --> getting a connection 
+1605163689 - INFO  --> Checking if user Exist 
+1605163689 - DEBUG --> getting a connection 
+1605163689 - INFO  --> Creating user Account! 
+1605163689 - DEBUG --> getting a connection 
+1605163689 - INFO  --> Creating user Account! 
+1605163689 - DEBUG --> getting a connection 
+1605163750 - INFO  --> Checking if user email and password match to the one present in the database. 
+1605163750 - DEBUG --> getting a connection 
+1605163766 - INFO  --> Checking if user Exist 
+1605163766 - DEBUG --> getting a connection 
+1605163766 - INFO  --> Creating user Account! 
+1605163766 - DEBUG --> getting a connection 
+1605163766 - INFO  --> Creating user Account! 
+1605163766 - DEBUG --> getting a connection 
+1605163882 - INFO  --> Checking if user Exist 
+1605163882 - DEBUG --> getting a connection 
+1605163882 - INFO  --> Creating user Account! 
+1605163882 - DEBUG --> getting a connection 
+1605163882 - INFO  --> Creating user Account! 
+1605163882 - DEBUG --> getting a connection 
+1605163953 - INFO  --> Creating user Account! 
+1605163953 - DEBUG --> getting a connection 
+1605164306 - INFO  --> Creating user Account! 
+1605164306 - DEBUG --> getting a connection 
+1605164369 - INFO  --> Creating user Account! 
+1605164369 - DEBUG --> getting a connection 
+1605164419 - INFO  --> Creating user Account! 
+1605164419 - DEBUG --> getting a connection 
+1605164476 - INFO  --> Creating user Account! 
+1605164476 - DEBUG --> getting a connection 
+1605164485 - INFO  --> Creating user Account! 
+1605164485 - DEBUG --> getting a connection 
+1605164505 - INFO  --> Creating user Account! 
+1605164505 - DEBUG --> getting a connection 
+1605164554 - INFO  --> Creating user Account! 
+1605164554 - DEBUG --> getting a connection 
+1605164604 - INFO  --> Checking if user Exist 
+1605164604 - DEBUG --> getting a connection 
+1605164604 - INFO  --> Creating user Account! 
+1605164604 - DEBUG --> getting a connection 
+1605165630 - INFO  --> Creating user Account! 
+1605165630 - DEBUG --> getting a connection 
+1605165672 - INFO  --> Creating user Account! 
+1605165672 - DEBUG --> getting a connection 
+1605165672 - INFO  --> Get First Name! 
+1605165672 - DEBUG --> getting a connection 
+1605165679 - INFO  --> Creating user Account! 
+1605165679 - DEBUG --> getting a connection 
+1605165679 - INFO  --> Get First Name! 
+1605165679 - DEBUG --> getting a connection 
+1605165726 - INFO  --> Creating user Account! 
+1605165726 - DEBUG --> getting a connection 
+1605165726 - INFO  --> Get First Name! 
+1605165726 - DEBUG --> getting a connection 
+1605165758 - INFO  --> Creating user Account! 
+1605165758 - DEBUG --> getting a connection 
+1605165758 - INFO  --> Get First Name! 
+1605165758 - DEBUG --> getting a connection 
+1605165777 - INFO  --> Creating user Account! 
+1605165777 - DEBUG --> getting a connection 
+1605165777 - INFO  --> Get First Name! 
+1605165777 - DEBUG --> getting a connection 
+1605165821 - INFO  --> Creating user Account! 
+1605165821 - DEBUG --> getting a connection 
+1605165821 - INFO  --> Get First Name! 
+1605165821 - DEBUG --> getting a connection 
+1605165841 - INFO  --> Creating user Account! 
+1605165841 - DEBUG --> getting a connection 
+1605165841 - INFO  --> Get First Name! 
+1605165841 - DEBUG --> getting a connection 
+1605165866 - INFO  --> Creating user Account! 
+1605165866 - DEBUG --> getting a connection 
+1605165866 - INFO  --> Get First Name! 
+1605165866 - DEBUG --> getting a connection 
+1605165969 - INFO  --> Creating user Account! 
+1605165969 - DEBUG --> getting a connection 
+1605165969 - INFO  --> Get First Name! 
+1605165969 - DEBUG --> getting a connection 
+1605165969 - INFO  --> Get Last Name! 
+1605165969 - DEBUG --> getting a connection 
+1605165994 - INFO  --> Creating user Account! 
+1605165994 - DEBUG --> getting a connection 
+1605165994 - INFO  --> Get First Name! 
+1605165994 - DEBUG --> getting a connection 
+1605165994 - INFO  --> Get Last Name! 
+1605165994 - DEBUG --> getting a connection 
+1605166010 - INFO  --> Creating user Account! 
+1605166010 - DEBUG --> getting a connection 
+1605166010 - INFO  --> Get First Name! 
+1605166010 - DEBUG --> getting a connection 
+1605166010 - INFO  --> Get Last Name! 
+1605166010 - DEBUG --> getting a connection 
+1605166025 - INFO  --> Creating user Account! 
+1605166025 - DEBUG --> getting a connection 
+1605166025 - INFO  --> Get First Name! 
+1605166025 - DEBUG --> getting a connection 
+1605166025 - INFO  --> Get Last Name! 
+1605166025 - DEBUG --> getting a connection 
+1606062526 - INFO  --> Checking if user Exist 
+1606062526 - DEBUG --> getting a connection 
+1606062526 - INFO  --> Creating user Account! 
+1606062526 - DEBUG --> getting a connection 
+1606062555 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606062555 - DEBUG --> getting a connection 
+1606062937 - INFO  --> Checking if user Exist 
+1606062937 - DEBUG --> getting a connection 
+1606062937 - INFO  --> Creating user Account! 
+1606062937 - DEBUG --> getting a connection 
+1606063033 - INFO  --> Checking if user Exist 
+1606063033 - DEBUG --> getting a connection 
+1606063033 - INFO  --> Creating user Account! 
+1606063033 - DEBUG --> getting a connection 
+1606063051 - INFO  --> Checking if user Exist 
+1606063051 - DEBUG --> getting a connection 
+1606063051 - INFO  --> Creating user Account! 
+1606063051 - DEBUG --> getting a connection 
+1606063055 - INFO  --> Checking if user Exist 
+1606063055 - DEBUG --> getting a connection 
+1606063055 - INFO  --> Creating user Account! 
+1606063055 - DEBUG --> getting a connection 
+1606063183 - INFO  --> Checking if user Exist 
+1606063183 - DEBUG --> getting a connection 
+1606063183 - INFO  --> Creating user Account! 
+1606063183 - DEBUG --> getting a connection 
+1606063335 - INFO  --> Checking if user Exist 
+1606063335 - DEBUG --> getting a connection 
+1606063335 - INFO  --> Creating user Account! 
+1606063335 - DEBUG --> getting a connection 
+1606063502 - INFO  --> Checking if user Exist 
+1606063502 - DEBUG --> getting a connection 
+1606063502 - INFO  --> Creating user Account! 
+1606063502 - DEBUG --> getting a connection 
+1606067507 - INFO  --> Checking if user Exist 
+1606067507 - DEBUG --> getting a connection 
+1606067507 - INFO  --> Creating user Account! 
+1606067507 - DEBUG --> getting a connection 
+1606067551 - INFO  --> Checking if user Exist 
+1606067551 - DEBUG --> getting a connection 
+1606067570 - INFO  --> Checking if user Exist 
+1606067570 - DEBUG --> getting a connection 
+1606067570 - INFO  --> Creating user Account! 
+1606067570 - DEBUG --> getting a connection 
+1606067641 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606067641 - DEBUG --> getting a connection 
+1606067768 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606067768 - DEBUG --> getting a connection 
+1606067775 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606067775 - DEBUG --> getting a connection 
+1606067854 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606067854 - DEBUG --> getting a connection 
+1606340419 - INFO  --> Checking if user Exist 
+1606340419 - DEBUG --> getting a connection 
+1606340419 - INFO  --> Creating user Account! 
+1606340419 - DEBUG --> getting a connection 
+1606340431 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606340431 - DEBUG --> getting a connection 
+1606340507 - INFO  --> Checking if user Exist 
+1606340507 - DEBUG --> getting a connection 
+1606340507 - INFO  --> Creating user Account! 
+1606340507 - DEBUG --> getting a connection 
+1606341562 - INFO  --> Checking if user Exist 
+1606341562 - DEBUG --> getting a connection 
+1606341562 - INFO  --> Creating user Account! 
+1606341562 - DEBUG --> getting a connection 
+1606341577 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606341577 - DEBUG --> getting a connection 
+1606343181 - INFO  --> Checking if user Exist 
+1606343181 - DEBUG --> getting a connection 
+1606343181 - INFO  --> Creating user Account! 
+1606343181 - DEBUG --> getting a connection 
+1606343193 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606343193 - DEBUG --> getting a connection 
+1606343367 - INFO  --> Checking if user email and password match to the one present in the database. 
+1606343367 - DEBUG --> getting a connection 

@@ -90,7 +90,10 @@ header img {
   padding-top: 1.5em;
 }
 
-
+label {
+  padding-right: 35%;
+  cursor: pointer;
+}
 input[type="text"] {
   width: 200px;
   -webkit-transition: width 0.35s ease-in-out;
