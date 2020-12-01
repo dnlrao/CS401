@@ -198,3 +198,6 @@ button {
   background-color: none;
 }
 
+.buttonArea a {
+  color: white;
+}

@@ -67,6 +67,9 @@
                     ?>
 
                 </li>
+                <li><a href="Accessories.php">
+                        <h3>Accessories</h3>
+                    </a></li>
                 <li><a href="women.php">
                         <h3>Women</h3>
                     </a></li>

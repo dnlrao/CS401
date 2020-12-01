@@ -67,7 +67,7 @@
                     ?>
 
                 </li>
-                <li><a href="#">
+                <li><a href="Accessories.php">
                         <h3>Accessories</h3>
                     </a></li>
                 <li><a href="women.php">
@@ -116,7 +116,6 @@
                 <img src="/Images_2/9.jpg" class = "effect" alt="">
                 <img src="/Images_2/10.jpg" class = "effect" alt="">
                 <img src="/Images_2/11.jpg" class = "effect" alt="">
-                <img src="/Images_2/12.jpg" class = "effect" alt="">
             </div>
 
         </div>

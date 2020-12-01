@@ -230,3 +230,7 @@
 1606343193 - DEBUG --> getting a connection 
 1606343367 - INFO  --> Checking if user email and password match to the one present in the database. 
 1606343367 - DEBUG --> getting a connection 
+1606436322 - INFO  --> Checking if user Exist 
+1606436322 - DEBUG --> getting a connection 
+1606436322 - INFO  --> Creating user Account! 
+1606436322 - DEBUG --> getting a connection 

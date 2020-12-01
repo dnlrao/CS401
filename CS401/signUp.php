@@ -16,7 +16,7 @@ if(count($_COOKIE)>1){
     <link rel="stylesheet" href="CSS/signUp.css">
     <link rel="stylesheet" href="CSS/passValidator.css">
     <link rel="icon" sizes="57x57" href="Images/logo.png" />
-    <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="JS/passValidator.js"></script>
 </head>
 
